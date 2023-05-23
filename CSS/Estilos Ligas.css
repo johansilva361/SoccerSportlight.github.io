@@ -1,0 +1,536 @@
+.Prin {
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+}
+
+.Ligas {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    width: 1285px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-color: black;
+    float: left;
+    transition: .5s;
+  }
+
+.Liga1 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+  }
+
+.Ligas h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga1 h3{
+    margin-top: 80px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga1 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga1 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 20px;
+}
+
+.Liga1img {
+    width: 300px;
+    margin-left: 500px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga1img img{
+    width: 200px;
+    margin-left: 50px;
+}
+
+
+
+.Liga2 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas2 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga2 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga2 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga2 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga2img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga2img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Liga3 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas3 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga3 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga3 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga3 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga3img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga3img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Liga4 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas4 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga4 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga4 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga4 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga4img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga4img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Liga5 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas2 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga5 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga5 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga5 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga5img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga5img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Liga6 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas6 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga6 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga6 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga6 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga6img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga6img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Liga7 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas7 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga7 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga7 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga7 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga7img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga7img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Liga8 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Ligas8 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Liga8 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga8 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Liga8 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Liga8img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Liga8img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}

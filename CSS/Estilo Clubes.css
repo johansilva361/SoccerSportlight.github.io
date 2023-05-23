@@ -1,0 +1,2689 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url("IMG/prueba-fondo.png");
+  min-height: 100%;
+}
+
+.Prin {
+  text-align: center;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 40px;
+}
+
+.Liga {
+  display: flex;
+  width: 200px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  transition: .5s;
+}
+
+.Liga img {
+  width: 70px;
+}
+
+.Liga h2 {
+  margin-top: 25px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+}
+
+.Liga2 {
+  display: flex;
+  width: 200px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 1650px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  transition: .5s;
+}
+
+.Liga2 img {
+  width: 70px;
+}
+
+.Liga2 h2 {
+  margin-top: 25px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+}
+
+.Liga3 {
+  display: flex;
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  transition: .5s;
+}
+
+.Liga3 img {
+  width: 70px;
+}
+
+.Liga3 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+}
+
+.Liga4 {
+  display: flex;
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-top: 100px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  transition: .5s;
+}
+
+.Liga4 img {
+  width: 70px;
+}
+
+.Liga4 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+}
+
+.Clubes {
+  margin-right: 100px;
+  margin-left: 10px;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  width: 1260px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-color: #313131;
+  float: left;
+  transition: .5s;
+}
+
+.Clubes .Contenedor1x{
+  margin-top: 10px;
+}
+
+.Clubes .Contenedor2x{
+  margin-top: 10px;
+}
+
+.Clubes .Contenedor3x{
+  margin-top: 10px;
+}
+
+.Clubes .Contenedor4{
+  margin-top: 10px;
+}
+
+.Clubes .Contenedor5{
+  margin-top: 10px;
+}
+
+.Clubes .Contenedor6{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor7{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor8{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor9{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor10{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor11{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor12{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor13{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor14{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor15{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor16{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor17{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor18{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor19{
+  margin-top: 20px;
+}
+
+.Clubes .Contenedor20{
+  margin-top: 20px;
+}
+
+.Contenedor1x {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor1x img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor1x h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor1x li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor2x {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor2x img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor2x h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor2x li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Contenedor3x {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor3x img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor3x h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor3x li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor4 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor4 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor4 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor4 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor5 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor5 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor5 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor5 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor6 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor6 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor6 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor6 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor7 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor7 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor7 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor7 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor8 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor8 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor8 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor8 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor9 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor9 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor9 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor9 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor10 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor10 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor10 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor10 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor11 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor11 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor11 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor11 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor12 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor12 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor12 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor12 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor13 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor13 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor13 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor13 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor14 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor14 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor14 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor14 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor15 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor15 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor15 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor15 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor16 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor16 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor16 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor16 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor17 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor17 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+.Contenedor17 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor17 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor18 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor18 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor18 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor18 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor19 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor19 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor19 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor19 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.Contenedor20 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor20 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor20 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor20 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+.Contenedor21 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor21 img {
+  margin-left: 40px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor21 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor21 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor22 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor22 img {
+  margin-left: 40px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor22 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor22 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor23 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor23 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor23 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor23 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor24 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor24 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor24 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor24 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor25 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor25 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor25 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor25 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor26 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor26 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor26 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor26 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor27 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor27 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor27 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor27 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor28 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor28 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor28 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor28 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor29 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor29 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor29 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor29 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor30 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor30 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor30 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor30 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor31 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor31 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor31 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor31 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor32 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor32 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor32 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor32 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor33 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor33 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor33 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor33 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor34 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor34 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor34 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor34 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor35 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor35 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor35 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor35 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor36 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor36 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor36 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor36 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor37 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor37 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor37 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor37 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor38 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor38 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor38 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor38 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor39 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor39 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor39 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor39 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor40 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor40 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor40 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor40 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+.Contenedor41 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor41 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor41 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor41 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor42 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor42 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor42 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor42 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor43 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor43 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor43 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor43 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor44 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor44 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor44 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor44 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor45 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor45 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor45 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor45 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor46 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor46 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor46 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor46 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor47 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor47 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor47 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor47 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor48 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor48 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor48 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor48 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor49 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor49 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor49 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor49 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor50 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor50 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor50 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor50 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor51 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor51 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor51 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor51 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor52 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor52 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor52 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor52 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor53 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor53 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor53 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor53 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor54 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor54 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor54 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor54 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor55 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor55 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor55 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor55 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor56 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor56 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor56 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor56 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor57 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor57 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor57 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor57 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor58 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor58 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor58 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor58 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor59 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor59 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor59 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor59 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+.Contenedor60 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor60 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor60 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor60 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor61 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor61 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor61 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor61 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor62 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor62 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor62 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor62 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor63 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor63 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor63 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor63 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor64 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor64 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor64 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor64 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor65 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor65 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor65 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor65 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor66 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor66 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor66 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor66 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor67 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor67 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor67 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor67 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor68 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor68 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor68 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor68 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor69 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor69 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor69 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor69 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor70 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor70 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor70 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor70 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor71 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor71 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor71 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor71 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor72 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor72 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor72 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor72 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor73 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor73 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor73 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor73 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor74 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor74 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor74 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor74 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor75 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor75 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor75 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor75 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor76 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor76 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor76 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor76 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor77 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor77 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor77 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor77 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor78 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor78 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor78 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor78 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor79 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor79 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor79 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor79 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Contenedor80 {
+  margin-right: 20px;
+  margin-left: 30px;
+  margin-bottom: 100px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px;
+  border-bottom: solid 10px rgba(6, 74, 76, .18);
+  background-image: url(IMG/fondo-titulo.jpg);
+  float: left;
+  transition: .5s;
+}
+
+.Contenedor80 img {
+  margin-left: 50px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.Contenedor80 h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.Contenedor80 li {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+}

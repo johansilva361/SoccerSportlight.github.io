@@ -1,0 +1,600 @@
+.Prin {
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+}
+
+.Competencias {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    width: 1285px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-color: black;
+    float: left;
+    transition: .5s;
+  }
+
+.Competencia1 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+  }
+
+.Competencia1 {
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia1  h3{
+    margin-top: 80px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+  .Competencia1  p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+  .Competencia1  img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 80px;
+    margin-left: 20px;
+}
+
+.Competencia1img {
+    width: 300px;
+    margin-left: 500px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia1img img{
+    width: 200px;
+    margin-left: 50px;
+}
+
+
+
+.Competencia2 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia2 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia2 h3{
+    margin-top: 150px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia2 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia2 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Competencia2img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia2img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Competencia3 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia3 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia3 h3{
+    margin-top: 120px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia3 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia3 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Competencia3img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia3img img{
+    width: 150px;
+    margin-left: 130px;
+}
+
+.Competencia4 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+  }
+
+.Competencia4 {
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia4  h3{
+    margin-top: 100px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+  .Competencia4  p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+  .Competencia4  img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 80px;
+    margin-left: 20px;
+}
+
+.Competencia4img {
+    width: 300px;
+    margin-left: 500px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia4img img{
+    width: 300px;
+    margin-left: 10px;
+}
+
+
+
+.Competencia5 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia5 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia5 h3{
+    margin-top: 100px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia5 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia5 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Competencia5img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia5img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+
+
+.Competencia6 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia6 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia6 h3{
+    margin-top: 100px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia6 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia6 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 140px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Competencia6img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia6img img{
+    width: 350px;
+    margin-left: 30px;
+}
+
+
+
+.Competencia7 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia7 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia7 h3{
+    margin-top: 140px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia7 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia7 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Competencia7img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia7img img{
+    width: 200px;
+    height: 350px;
+    margin-left: 100px;
+}
+
+
+
+.Competencia8 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia8 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia8 h3{
+    margin-top: 140px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia8 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia8 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 140px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.Competencia8img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia8img img{
+    width: 200px;
+    margin-left: 100px;
+}
+
+
+
+.Competencia9 {
+    display: flex;
+    width: 1220px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia9 h2{
+    margin-top: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.Competencia9 h3{
+    margin-top: 100px;
+    margin-right: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia9 p{
+    margin-right: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.Competencia9 img {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+    background-color:rgb(201, 201, 201);
+    border-radius: 80%;
+}
+
+.Competencia9img {
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px;
+    border-bottom: solid 10px rgba(6, 74, 76, .18);
+    background-image: url(IMG/fondo-titulo.jpg);
+    transition: .5s;
+}
+
+.Competencia9img img{
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+    border-radius: 80%;
+}
